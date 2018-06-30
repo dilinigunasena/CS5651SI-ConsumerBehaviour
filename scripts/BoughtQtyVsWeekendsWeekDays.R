@@ -68,4 +68,5 @@ for (i in 1:10000) {
 p_value = length(arr[arr]>p_diff)/10000
 
 # If p_value < 0.05 Reject null hypothesis
+# p_value = 0.9999
 # Here, p_value > 0.05, So we cannot reject the null hypothesis.
