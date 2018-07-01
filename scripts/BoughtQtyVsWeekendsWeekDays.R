@@ -51,7 +51,7 @@ p_diff = x1_Prop -x2_Prop
 
 # Create a new list by appending total values of the 2 lists
 Total = c(listweekend, listweekdays)
-Total
+
 #boostraps samples
 arr = c()
 
@@ -61,11 +61,18 @@ for (i in 1:10000) {
   x2_smp = smp[161:247]
   Prop_x1_Smp = sum(x1_smp)/160
   Prop_x2_Smp = sum(x2_smp)/87
-  arr = c(arr, p_diff)
+  p_diff2 = Prop_x1_Smp - Prop_x2_Smp
+  arr = c(arr, p_diff2)
 }
 
+count = 0 
+for (x in 1:length(arr)) {
+  if(arr[x]>p_diff){
+    count=count+1;
+  }
+}
 # calculate P-Value
-p_value = length(arr[arr]>p_diff)/10000
+p_value = (count/10000)
 
 # If p_value < 0.05 Reject null hypothesis
 # p_value = 0.9999
