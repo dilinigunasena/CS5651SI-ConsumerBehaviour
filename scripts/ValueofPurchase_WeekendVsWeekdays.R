@@ -71,36 +71,20 @@ adjusted_weekend_spent = c(weekend_data$Adjusted.Weighted.Spent)
 print(adjusted_weekend_spent)
 
 # generate boostrap samples for weekdays & weekend data
-# boostraping for weekdays 
-boostrap_weekdays_sample = c()
-boostrap_weekdays_mean=c()
+boostrap_mean=c()
 for (x in 1:10000) {
   random_sample1 = sample(weekdays_weighted_spent,87,replace = TRUE)
-  boostrap_weekdays_sample = c(boostrap_weekdays_sample,random_sample1)
-  random_mean1 = mean(random_sample1);
-  boostrap_weekdays_mean = c(boostrap_weekdays_mean,random_mean1)
-}
-print(boostrap_weekdays_sample)
-print(boostrap_weekdays_mean)
-
-# boostraping for weekend 
-boostrap_weekend_sample = c()
-boostrap_weekend_mean=c()
-for (x in 1:10000) {
   random_sample2 = sample(adjusted_weekend_spent,160,replace = TRUE)
-  boostrap_weekend_sample = c(boostrap_weekend_sample,random_sample2)
-  random_mean2 = mean(random_sample2);
-  boostrap_weekend_mean = c(boostrap_weekend_mean,random_mean2)
+  random_mean1 = mean(random_sample1)
+  random_mean2 = mean(random_sample2)
+  smp_mean_diff = random_mean1 - random_mean2
+  boostrap_mean=c(boostrap_mean,smp_mean_diff)
 }
-print(boostrap_weekend_sample)
-print(boostrap_weekend_mean)
 
 # calculate p values for boostrap sample
-sample_mean_diff = (boostrap_weekdays_mean - boostrap_weekend_mean)
-print(sample_mean_diff)
 count = 0 
-for (x in 1:length(sample_mean_diff)) {
-  if(mean_diff[c(x)]>mean_diff){
+for (x in 1:length(boostrap_mean)) {
+  if(boostrap_mean[x]>mean_diff){
     count=count+1;
   }
 }
