@@ -57,8 +57,8 @@ weekend_weighted_spent = c(weekend_data$Weighted.Spent) # weighted spent for all
 print(weekend_weighted_spent)
 
 # Hypothesis Testing 
-# w1 - average weighted spent for weekends  
-# w2 - average weighted spent for weekdays 
+# w1 - average weighted spent for weekdays  
+# w2 - average weighted spent for weekends 
 
 # Hypothesis
 # Null Hypothesis - Ho: w1=w2 
@@ -74,7 +74,7 @@ print(adjusted_weekend_spent)
 # boostraping for weekdays 
 boostrap_weekdays_sample = c()
 boostrap_weekdays_mean=c()
-for (x in 1:10) {
+for (x in 1:10000) {
   random_sample1 = sample(weekdays_weighted_spent,87,replace = TRUE)
   boostrap_weekdays_sample = c(boostrap_weekdays_sample,random_sample1)
   random_mean1 = mean(random_sample1);
@@ -86,16 +86,27 @@ print(boostrap_weekdays_mean)
 # boostraping for weekend 
 boostrap_weekend_sample = c()
 boostrap_weekend_mean=c()
-for (x in 1:10) {
+for (x in 1:10000) {
   random_sample2 = sample(adjusted_weekend_spent,160,replace = TRUE)
   boostrap_weekend_sample = c(boostrap_weekend_sample,random_sample2)
   random_mean2 = mean(random_sample2);
   boostrap_weekend_mean = c(boostrap_weekend_mean,random_mean2)
 }
-
 print(boostrap_weekend_sample)
 print(boostrap_weekend_mean)
 
 # calculate p values for boostrap sample
+sample_mean_diff = (boostrap_weekdays_mean - boostrap_weekend_mean)
+print(sample_mean_diff)
+count = 0 
+for (x in 1:length(sample_mean_diff)) {
+  if(mean_diff[c(x)]>mean_diff){
+    count=count+1;
+  }
+}
+print(count)
+p_value = (count/10000)
+print(p_value)
+# since we got 0 for p_value we have to reject the Null Hypothesis - H0: w1=w2
 
  
