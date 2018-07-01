@@ -1,87 +1,88 @@
-0
-1
-1
-1
-1
-1
-1
-1
-1
-0
-0
-1
-1
-1
-1
-0
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-0
-0
-0
-1
-1
-1
-0
-1
-1
-1
-0
-1
-1
-1
-0
-1
-1
-1
-1
-1
-1
-1
-1
-1
-0
-1
-1
-0
-1
-1
-1
-1
-1
-1
-1
-0
-1
-1
-0
-1
-1
-1
-1
-0
-0
-1
-1
-0
-1
-0
-1
-1
-1
-0
-1
-1
-1
+ID,Monday,Tuesday,Wednesday,Thursday,Friday,Item Quantity
+1,Night (after 7pm),,Night (after 7pm),,,0
+2,Evening (4pm - 7pm),Evening (4pm - 7pm),Evening (4pm - 7pm),Evening (4pm - 7pm),Evening (4pm - 7pm),1
+5,Evening (4pm - 7pm);Night (after 7pm),Evening (4pm - 7pm);Night (after 7pm),Evening (4pm - 7pm);Night (after 7pm),Evening (4pm - 7pm);Night (after 7pm),Evening (4pm - 7pm);Night (after 7pm),1
+7,Night (after 7pm),Night (after 7pm),Night (after 7pm),Night (after 7pm),Night (after 7pm),1
+10,,,Night (after 7pm),,,1
+11,,,Evening (4pm - 7pm),Evening (4pm - 7pm),,1
+15,Night (after 7pm),Night (after 7pm),Night (after 7pm),Night (after 7pm),Night (after 7pm),1
+17,,,,,Night (after 7pm),1
+18,Evening (4pm - 7pm),Evening (4pm - 7pm),Evening (4pm - 7pm),Evening (4pm - 7pm),Evening (4pm - 7pm),1
+20,Night (after 7pm),Night (after 7pm),Night (after 7pm),Night (after 7pm),Night (after 7pm),0
+21,Evening (4pm - 7pm),,,,,0
+25,Night (after 7pm),Night (after 7pm),Night (after 7pm),Night (after 7pm),Night (after 7pm),1
+26,Night (after 7pm),Night (after 7pm),Night (after 7pm),Night (after 7pm),Night (after 7pm),1
+29,Night (after 7pm),Night (after 7pm),Night (after 7pm),Night (after 7pm),Night (after 7pm),1
+30,Evening (4pm - 7pm),Evening (4pm - 7pm),Evening (4pm - 7pm),Evening (4pm - 7pm),Evening (4pm - 7pm),1
+32,,,Night (after 7pm),,,0
+33,Evening (4pm - 7pm),Evening (4pm - 7pm),Evening (4pm - 7pm),Evening (4pm - 7pm),Morning (until 11am);Night (after 7pm),1
+37,,Night (after 7pm),Night (after 7pm),Night (after 7pm),,1
+38,Evening (4pm - 7pm),Evening (4pm - 7pm),Evening (4pm - 7pm),Evening (4pm - 7pm),Evening (4pm - 7pm);Night (after 7pm),1
+39,Evening (4pm - 7pm),Evening (4pm - 7pm),Evening (4pm - 7pm),Evening (4pm - 7pm),Evening (4pm - 7pm),1
+40,,,,,Night (after 7pm),1
+42,,,,,Evening (4pm - 7pm),1
+45,Evening (4pm - 7pm),Evening (4pm - 7pm),Evening (4pm - 7pm),Evening (4pm - 7pm),Evening (4pm - 7pm),1
+49,,,,,Evening (4pm - 7pm),1
+52,,,,,Daytime (11am - 3pm),1
+53,,,,,Night (after 7pm),1
+54,,,Night (after 7pm),,Night (after 7pm),1
+55,Night (after 7pm),Night (after 7pm),Night (after 7pm),Night (after 7pm),Night (after 7pm),1
+57,,,,,Night (after 7pm),1
+61,Evening (4pm - 7pm),Evening (4pm - 7pm),Evening (4pm - 7pm),Evening (4pm - 7pm),Evening (4pm - 7pm),1
+64,,,,,Evening (4pm - 7pm);Night (after 7pm),0
+66,,,,,Night (after 7pm),0
+67,,,,,Night (after 7pm),0
+68,Night (after 7pm),Night (after 7pm),Night (after 7pm),Night (after 7pm),Night (after 7pm),1
+72,Night (after 7pm),Night (after 7pm),Night (after 7pm),Night (after 7pm),Daytime (11am - 3pm);Evening (4pm - 7pm),1
+73,Evening (4pm - 7pm),Evening (4pm - 7pm),Evening (4pm - 7pm),Evening (4pm - 7pm),Evening (4pm - 7pm),1
+74,Morning (until 11am),,,,,0
+75,Night (after 7pm),Night (after 7pm),Night (after 7pm),Night (after 7pm),Night (after 7pm),1
+76,,,Night (after 7pm),,,1
+79,,,,,Night (after 7pm),1
+82,Night (after 7pm),Night (after 7pm),Night (after 7pm),Night (after 7pm),Night (after 7pm),0
+83,Night (after 7pm),Night (after 7pm),Night (after 7pm),Night (after 7pm),Night (after 7pm),1
+84,Night (after 7pm),Night (after 7pm),Night (after 7pm),Night (after 7pm),Night (after 7pm),1
+86,,,Morning (until 11am),Morning (until 11am),,1
+87,Evening (4pm - 7pm),Evening (4pm - 7pm),Evening (4pm - 7pm),Evening (4pm - 7pm),Evening (4pm - 7pm),0
+88,Morning (until 11am),,,Morning (until 11am),,1
+90,Evening (4pm - 7pm),,,Morning (until 11am),,1
+91,Evening (4pm - 7pm),Evening (4pm - 7pm),Evening (4pm - 7pm),Evening (4pm - 7pm),Evening (4pm - 7pm),1
+92,Evening (4pm - 7pm),,Morning (until 11am),,,1
+96,Morning (until 11am),Morning (until 11am),Morning (until 11am),Morning (until 11am),Morning (until 11am),1
+101,Night (after 7pm),Night (after 7pm),Night (after 7pm),Night (after 7pm),Night (after 7pm),1
+102,Evening (4pm - 7pm),Evening (4pm - 7pm),Evening (4pm - 7pm),Evening (4pm - 7pm),Evening (4pm - 7pm),1
+103,,,,,Night (after 7pm),1
+104,Night (after 7pm),Night (after 7pm),Night (after 7pm),Night (after 7pm),Night (after 7pm),1
+105,Night (after 7pm),,,,Night (after 7pm),0
+106,Evening (4pm - 7pm),Evening (4pm - 7pm),Evening (4pm - 7pm),Evening (4pm - 7pm),Evening (4pm - 7pm),1
+110,Evening (4pm - 7pm),Evening (4pm - 7pm),Evening (4pm - 7pm),Evening (4pm - 7pm),Evening (4pm - 7pm),1
+111,Night (after 7pm),,,,Night (after 7pm),0
+112,Evening (4pm - 7pm),Evening (4pm - 7pm),Evening (4pm - 7pm),Evening (4pm - 7pm),Evening (4pm - 7pm),1
+113,Morning (until 11am),,Morning (until 11am),,Night (after 7pm),1
+115,Evening (4pm - 7pm),Evening (4pm - 7pm),Evening (4pm - 7pm),Evening (4pm - 7pm),Morning (until 11am),1
+118,,,,Night (after 7pm),Night (after 7pm),1
+119,,Daytime (11am - 3pm),,Evening (4pm - 7pm),,1
+123,Evening (4pm - 7pm),,,,Evening (4pm - 7pm),1
+125,Night (after 7pm),,Night (after 7pm),,,1
+126,,,Evening (4pm - 7pm),,,0
+129,Night (after 7pm),Night (after 7pm),Night (after 7pm),Night (after 7pm),Night (after 7pm),1
+130,Night (after 7pm),Night (after 7pm),Night (after 7pm),Night (after 7pm),Night (after 7pm),1
+133,Night (after 7pm),Night (after 7pm),Night (after 7pm),Night (after 7pm),Night (after 7pm),0
+136,Night (after 7pm),Night (after 7pm),Night (after 7pm),Night (after 7pm),Night (after 7pm),1
+139,,,,,Evening (4pm - 7pm),1
+141,Night (after 7pm),Night (after 7pm),Night (after 7pm),Night (after 7pm),Night (after 7pm),1
+142,Evening (4pm - 7pm),Evening (4pm - 7pm),Evening (4pm - 7pm),Evening (4pm - 7pm),Evening (4pm - 7pm),1
+144,Evening (4pm - 7pm);Night (after 7pm),Evening (4pm - 7pm);Night (after 7pm),Evening (4pm - 7pm);Night (after 7pm),Evening (4pm - 7pm);Night (after 7pm),Evening (4pm - 7pm);Night (after 7pm),0
+147,Evening (4pm - 7pm),Evening (4pm - 7pm),Evening (4pm - 7pm),Evening (4pm - 7pm),Evening (4pm - 7pm),0
+148,Night (after 7pm),Night (after 7pm),Night (after 7pm),Night (after 7pm),Night (after 7pm),1
+150,Evening (4pm - 7pm),Evening (4pm - 7pm),Evening (4pm - 7pm),Evening (4pm - 7pm),Evening (4pm - 7pm),1
+151,,Evening (4pm - 7pm),,Evening (4pm - 7pm),,0
+153,,Daytime (11am - 3pm),,Daytime (11am - 3pm),Daytime (11am - 3pm),1
+157,Night (after 7pm),Night (after 7pm),Night (after 7pm),Night (after 7pm),Night (after 7pm),0
+160,Evening (4pm - 7pm),,,,Evening (4pm - 7pm),1
+161,,,,,Evening (4pm - 7pm),1
+168,,Evening (4pm - 7pm),,Evening (4pm - 7pm),Evening (4pm - 7pm),1
+169,Evening (4pm - 7pm),,,Evening (4pm - 7pm),,0
+171,Morning (until 11am);Evening (4pm - 7pm),Morning (until 11am);Evening (4pm - 7pm),Morning (until 11am);Evening (4pm - 7pm),Morning (until 11am);Evening (4pm - 7pm),Morning (until 11am);Evening (4pm - 7pm),1
+172,Evening (4pm - 7pm),Evening (4pm - 7pm),Evening (4pm - 7pm),Evening (4pm - 7pm),Evening (4pm - 7pm),1
+175,Night (after 7pm),Night (after 7pm),Night (after 7pm),Night (after 7pm),Night (after 7pm),1
