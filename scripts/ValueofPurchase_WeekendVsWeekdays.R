@@ -93,4 +93,10 @@ p_value = (count/10000)
 print(p_value)
 # since we got 0 for p_value we have to reject the Null Hypothesis - H0: w1=w2
 
+# data representation
+hist(boostrap_mean)
+plot(weekdays_weighted_spent)
+plot(weekend_weighted_spent)
+plot(adjusted_weekend_spent)
+
  
