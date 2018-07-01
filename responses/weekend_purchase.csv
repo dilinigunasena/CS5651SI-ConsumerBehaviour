@@ -1,0 +1,161 @@
+ID,Sunday,Saturday,Value of Purchase,Count,Weight,Weighted Spent,Adjusted Weighted Spent
+1,,Night (after 7pm),1000 - 2000 rupees,1,3,3,6.901293
+2,Daytime (11am - 3pm);Evening (4pm - 7pm),Daytime (11am - 3pm);Evening (4pm - 7pm),500 - 1000 rupees,2,2,4,7.901293
+3,Daytime (11am - 3pm);Evening (4pm - 7pm),,1000 - 2000 rupees,1,3,3,6.901293
+4,,Morning (until 11am),More than 2000 rupees,1,4,4,7.901293
+5,Morning (until 11am);Evening (4pm - 7pm);Night (after 7pm),Morning (until 11am);Evening (4pm - 7pm);Night (after 7pm),1000 - 2000 rupees,2,3,6,9.901293
+6,,Morning (until 11am),More than 2000 rupees,1,4,4,7.901293
+7,Morning (until 11am);Evening (4pm - 7pm);Night (after 7pm),Morning (until 11am);Evening (4pm - 7pm);Night (after 7pm),1000 - 2000 rupees,2,3,6,9.901293
+8,Night (after 7pm),,More than 2000 rupees,1,4,4,7.901293
+9,Daytime (11am - 3pm);Evening (4pm - 7pm),,1000 - 2000 rupees,1,3,3,6.901293
+10,Morning (until 11am),,1000 - 2000 rupees,1,3,3,6.901293
+11,,Daytime (11am - 3pm);Evening (4pm - 7pm),1000 - 2000 rupees,1,3,3,6.901293
+12,,Morning (until 11am),500 - 1000 rupees,1,2,2,5.901293
+13,Daytime (11am - 3pm);Night (after 7pm),Daytime (11am - 3pm),More than 2000 rupees,2,4,8,11.901293
+14,Morning (until 11am);Evening (4pm - 7pm);Night (after 7pm),Morning (until 11am);Evening (4pm - 7pm);Night (after 7pm),More than 2000 rupees,2,4,8,11.901293
+15,Morning (until 11am),Morning (until 11am),500 - 1000 rupees,2,2,4,7.901293
+16,Daytime (11am - 3pm),Daytime (11am - 3pm),More than 2000 rupees,2,4,8,11.901293
+17,,Morning (until 11am),500 - 1000 rupees,1,2,2,5.901293
+18,Night (after 7pm),Night (after 7pm),More than 2000 rupees,2,4,8,11.901293
+19,Morning (until 11am);Daytime (11am - 3pm);Evening (4pm - 7pm);Night (after 7pm),Morning (until 11am);Daytime (11am - 3pm);Evening (4pm - 7pm);Night (after 7pm),1000 - 2000 rupees,2,3,6,9.901293
+20,Morning (until 11am),,1000 - 2000 rupees,1,3,3,6.901293
+21,Night (after 7pm),Night (after 7pm),1000 - 2000 rupees,2,3,6,9.901293
+22,Daytime (11am - 3pm),,More than 2000 rupees,1,4,4,7.901293
+23,Morning (until 11am);Night (after 7pm),Morning (until 11am),500 - 1000 rupees,2,2,4,7.901293
+24,Evening (4pm - 7pm),Evening (4pm - 7pm),1000 - 2000 rupees,2,3,6,9.901293
+25,,Night (after 7pm),More than 2000 rupees,1,4,4,7.901293
+26,Daytime (11am - 3pm),Daytime (11am - 3pm),Less than 500 rupees,2,1,2,5.901293
+27,Morning (until 11am),Morning (until 11am),1000 - 2000 rupees,2,3,6,9.901293
+28,Evening (4pm - 7pm),Evening (4pm - 7pm),1000 - 2000 rupees,2,3,6,9.901293
+29,Daytime (11am - 3pm),,More than 2000 rupees,1,4,4,7.901293
+30,Evening (4pm - 7pm),,More than 2000 rupees,1,4,4,7.901293
+31,Morning (until 11am),,500 - 1000 rupees,1,2,2,5.901293
+32,Morning (until 11am),Morning (until 11am),More than 2000 rupees,2,4,8,11.901293
+33,Night (after 7pm),,More than 2000 rupees,1,4,4,7.901293
+34,,Evening (4pm - 7pm);Night (after 7pm),More than 2000 rupees,1,4,4,7.901293
+35,Morning (until 11am),Morning (until 11am),1000 - 2000 rupees,2,3,6,9.901293
+36,Daytime (11am - 3pm),Daytime (11am - 3pm),500 - 1000 rupees,2,2,4,7.901293
+37,Daytime (11am - 3pm);Evening (4pm - 7pm),Daytime (11am - 3pm);Evening (4pm - 7pm),500 - 1000 rupees,2,2,4,7.901293
+38,,Night (after 7pm),More than 2000 rupees,1,4,4,7.901293
+39,Morning (until 11am);Daytime (11am - 3pm);Evening (4pm - 7pm),Morning (until 11am);Daytime (11am - 3pm);Evening (4pm - 7pm),1000 - 2000 rupees,2,3,6,9.901293
+40,Daytime (11am - 3pm);Evening (4pm - 7pm),Daytime (11am - 3pm);Evening (4pm - 7pm),1000 - 2000 rupees,2,3,6,9.901293
+41,Evening (4pm - 7pm),Evening (4pm - 7pm),More than 2000 rupees,2,4,8,11.901293
+42,Morning (until 11am);Evening (4pm - 7pm),Morning (until 11am),Less than 500 rupees,2,1,2,5.901293
+43,,Morning (until 11am);Evening (4pm - 7pm);Night (after 7pm),1000 - 2000 rupees,1,3,3,6.901293
+44,Evening (4pm - 7pm),,500 - 1000 rupees,1,2,2,5.901293
+45,,Morning (until 11am);Evening (4pm - 7pm),1000 - 2000 rupees,1,3,3,6.901293
+46,Evening (4pm - 7pm),Evening (4pm - 7pm),1000 - 2000 rupees,2,3,6,9.901293
+47,Evening (4pm - 7pm),Daytime (11am - 3pm);Evening (4pm - 7pm),500 - 1000 rupees,2,2,4,7.901293
+48,Evening (4pm - 7pm),Daytime (11am - 3pm),500 - 1000 rupees,2,2,4,7.901293
+49,,Daytime (11am - 3pm),500 - 1000 rupees,1,2,2,5.901293
+50,Morning (until 11am),Night (after 7pm),500 - 1000 rupees,2,2,4,7.901293
+51,Evening (4pm - 7pm),,1000 - 2000 rupees,1,3,3,6.901293
+52,Evening (4pm - 7pm),Evening (4pm - 7pm),500 - 1000 rupees,2,2,4,7.901293
+53,Morning (until 11am);Night (after 7pm),Morning (until 11am);Night (after 7pm),More than 2000 rupees,2,4,8,11.901293
+54,Night (after 7pm),Night (after 7pm),More than 2000 rupees,2,4,8,11.901293
+55,Morning (until 11am),,1000 - 2000 rupees,1,3,3,6.901293
+56,,Daytime (11am - 3pm);Evening (4pm - 7pm),500 - 1000 rupees,1,2,2,5.901293
+57,,Daytime (11am - 3pm);Evening (4pm - 7pm),500 - 1000 rupees,1,2,2,5.901293
+58,Evening (4pm - 7pm),Daytime (11am - 3pm),1000 - 2000 rupees,2,3,6,9.901293
+59,Daytime (11am - 3pm);Evening (4pm - 7pm),,500 - 1000 rupees,1,2,2,5.901293
+60,Evening (4pm - 7pm),Evening (4pm - 7pm),More than 2000 rupees,2,4,8,11.901293
+61,Daytime (11am - 3pm);Evening (4pm - 7pm),Daytime (11am - 3pm);Evening (4pm - 7pm),More than 2000 rupees,2,4,8,11.901293
+62,Morning (until 11am);Daytime (11am - 3pm);Evening (4pm - 7pm),Morning (until 11am);Daytime (11am - 3pm);Evening (4pm - 7pm),1000 - 2000 rupees,2,3,6,9.901293
+63,Night (after 7pm),Night (after 7pm),More than 2000 rupees,2,4,8,11.901293
+64,Evening (4pm - 7pm),,More than 2000 rupees,1,4,4,7.901293
+65,Morning (until 11am);Daytime (11am - 3pm),Morning (until 11am);Daytime (11am - 3pm),500 - 1000 rupees,2,2,4,7.901293
+66,Evening (4pm - 7pm),Morning (until 11am);Evening (4pm - 7pm),More than 2000 rupees,2,4,8,11.901293
+67,,Daytime (11am - 3pm),500 - 1000 rupees,1,2,2,5.901293
+68,,Daytime (11am - 3pm),500 - 1000 rupees,1,2,2,5.901293
+69,Night (after 7pm),Daytime (11am - 3pm);Evening (4pm - 7pm),1000 - 2000 rupees,2,3,6,9.901293
+70,Daytime (11am - 3pm),Daytime (11am - 3pm),1000 - 2000 rupees,2,3,6,9.901293
+71,Daytime (11am - 3pm);Night (after 7pm),Evening (4pm - 7pm);Night (after 7pm),500 - 1000 rupees,2,2,4,7.901293
+72,Daytime (11am - 3pm),Evening (4pm - 7pm),1000 - 2000 rupees,2,3,6,9.901293
+73,,Daytime (11am - 3pm);Night (after 7pm),1000 - 2000 rupees,1,3,3,6.901293
+74,Evening (4pm - 7pm),,More than 2000 rupees,1,4,4,7.901293
+75,,Night (after 7pm),500 - 1000 rupees,1,2,2,5.901293
+76,,Daytime (11am - 3pm),1000 - 2000 rupees,1,3,3,6.901293
+77,Daytime (11am - 3pm),Night (after 7pm),More than 2000 rupees,2,4,8,11.901293
+78,Daytime (11am - 3pm),Daytime (11am - 3pm),500 - 1000 rupees,2,2,4,7.901293
+79,Morning (until 11am),Evening (4pm - 7pm),1000 - 2000 rupees,2,3,6,9.901293
+80,Evening (4pm - 7pm),Daytime (11am - 3pm);Evening (4pm - 7pm),500 - 1000 rupees,2,2,4,7.901293
+81,Daytime (11am - 3pm),Daytime (11am - 3pm),500 - 1000 rupees,2,2,4,7.901293
+82,Evening (4pm - 7pm),Evening (4pm - 7pm),1000 - 2000 rupees,2,3,6,9.901293
+83,,Evening (4pm - 7pm),1000 - 2000 rupees,1,3,3,6.901293
+84,,Evening (4pm - 7pm);Night (after 7pm),More than 2000 rupees,1,4,4,7.901293
+85,Daytime (11am - 3pm),,500 - 1000 rupees,1,2,2,5.901293
+86,Morning (until 11am);Daytime (11am - 3pm);Evening (4pm - 7pm);Night (after 7pm),Morning (until 11am);Daytime (11am - 3pm);Evening (4pm - 7pm);Night (after 7pm),1000 - 2000 rupees,2,3,6,9.901293
+87,Night (after 7pm),Evening (4pm - 7pm);Night (after 7pm),1000 - 2000 rupees,2,3,6,9.901293
+88,Evening (4pm - 7pm),,Less than 500 rupees,1,1,1,4.901293
+89,Daytime (11am - 3pm),Daytime (11am - 3pm),500 - 1000 rupees,2,2,4,7.901293
+90,,Evening (4pm - 7pm),More than 2000 rupees,1,4,4,7.901293
+91,,Daytime (11am - 3pm),More than 2000 rupees,1,4,4,7.901293
+92,,Evening (4pm - 7pm),More than 2000 rupees,1,4,4,7.901293
+93,,Evening (4pm - 7pm),Less than 500 rupees,1,1,1,4.901293
+94,Evening (4pm - 7pm),Evening (4pm - 7pm),500 - 1000 rupees,2,2,4,7.901293
+95,Evening (4pm - 7pm),Morning (until 11am),1000 - 2000 rupees,2,3,6,9.901293
+96,,Daytime (11am - 3pm);Night (after 7pm),More than 2000 rupees,1,4,4,7.901293
+97,Evening (4pm - 7pm),Evening (4pm - 7pm),500 - 1000 rupees,2,2,4,7.901293
+98,,Morning (until 11am),More than 2000 rupees,1,4,4,7.901293
+99,Morning (until 11am);Daytime (11am - 3pm),Daytime (11am - 3pm);Evening (4pm - 7pm),500 - 1000 rupees,2,2,4,7.901293
+100,Evening (4pm - 7pm);Night (after 7pm),,More than 2000 rupees,1,4,4,7.901293
+101,Evening (4pm - 7pm),Evening (4pm - 7pm),Less than 500 rupees,2,1,2,5.901293
+102,Daytime (11am - 3pm),Daytime (11am - 3pm),500 - 1000 rupees,2,2,4,7.901293
+103,Evening (4pm - 7pm),,500 - 1000 rupees,1,2,2,5.901293
+104,Evening (4pm - 7pm),Evening (4pm - 7pm),More than 2000 rupees,2,4,8,11.901293
+105,Evening (4pm - 7pm),Morning (until 11am),500 - 1000 rupees,2,2,4,7.901293
+106,Evening (4pm - 7pm),,More than 2000 rupees,1,4,4,7.901293
+107,,Evening (4pm - 7pm),More than 2000 rupees,1,4,4,7.901293
+108,,Evening (4pm - 7pm),1000 - 2000 rupees,1,3,3,6.901293
+109,Evening (4pm - 7pm),,More than 2000 rupees,1,4,4,7.901293
+110,Morning (until 11am);Evening (4pm - 7pm),Morning (until 11am);Evening (4pm - 7pm),1000 - 2000 rupees,2,3,6,9.901293
+111,,Evening (4pm - 7pm),1000 - 2000 rupees,1,3,3,6.901293
+112,Daytime (11am - 3pm);Evening (4pm - 7pm),Daytime (11am - 3pm);Evening (4pm - 7pm),More than 2000 rupees,2,4,8,11.901293
+113,Evening (4pm - 7pm),,1000 - 2000 rupees,1,3,3,6.901293
+114,Evening (4pm - 7pm),Evening (4pm - 7pm),1000 - 2000 rupees,2,3,6,9.901293
+115,Evening (4pm - 7pm),Evening (4pm - 7pm),More than 2000 rupees,2,4,8,11.901293
+116,Evening (4pm - 7pm),Morning (until 11am),500 - 1000 rupees,2,2,4,7.901293
+117,Evening (4pm - 7pm),Morning (until 11am),500 - 1000 rupees,2,2,4,7.901293
+118,Morning (until 11am),Evening (4pm - 7pm),More than 2000 rupees,2,4,8,11.901293
+119,,Morning (until 11am),Less than 500 rupees,1,1,1,4.901293
+120,Evening (4pm - 7pm),Morning (until 11am),More than 2000 rupees,2,4,8,11.901293
+121,Morning (until 11am);Evening (4pm - 7pm),Daytime (11am - 3pm),500 - 1000 rupees,2,2,4,7.901293
+122,Evening (4pm - 7pm),Evening (4pm - 7pm),500 - 1000 rupees,2,2,4,7.901293
+123,Evening (4pm - 7pm),Evening (4pm - 7pm),500 - 1000 rupees,2,2,4,7.901293
+124,,Daytime (11am - 3pm),More than 2000 rupees,1,4,4,7.901293
+125,Morning (until 11am);Evening (4pm - 7pm),Morning (until 11am);Evening (4pm - 7pm),More than 2000 rupees,2,4,8,11.901293
+126,Daytime (11am - 3pm),Morning (until 11am),1000 - 2000 rupees,2,3,6,9.901293
+127,,Morning (until 11am),Less than 500 rupees,1,1,1,4.901293
+128,Night (after 7pm),Night (after 7pm),500 - 1000 rupees,2,2,4,7.901293
+129,Evening (4pm - 7pm),Morning (until 11am),Less than 500 rupees,2,1,2,5.901293
+130,Evening (4pm - 7pm);Night (after 7pm),Evening (4pm - 7pm);Night (after 7pm),More than 2000 rupees,2,4,8,11.901293
+131,Evening (4pm - 7pm);Night (after 7pm),Evening (4pm - 7pm);Night (after 7pm),More than 2000 rupees,2,4,8,11.901293
+132,Evening (4pm - 7pm),,More than 2000 rupees,1,4,4,7.901293
+133,Evening (4pm - 7pm),Evening (4pm - 7pm),More than 2000 rupees,2,4,8,11.901293
+134,Evening (4pm - 7pm),Evening (4pm - 7pm),1000 - 2000 rupees,2,3,6,9.901293
+135,Evening (4pm - 7pm),Evening (4pm - 7pm),1000 - 2000 rupees,2,3,6,9.901293
+136,Evening (4pm - 7pm),Daytime (11am - 3pm);Evening (4pm - 7pm),500 - 1000 rupees,2,2,4,7.901293
+137,Daytime (11am - 3pm),Daytime (11am - 3pm),Less than 500 rupees,2,1,2,5.901293
+138,Daytime (11am - 3pm),Morning (until 11am),More than 2000 rupees,2,4,8,11.901293
+139,Evening (4pm - 7pm),,More than 2000 rupees,1,4,4,7.901293
+140,Daytime (11am - 3pm),,Less than 500 rupees,1,1,1,4.901293
+141,Night (after 7pm),Morning (until 11am),More than 2000 rupees,2,4,8,11.901293
+142,,Evening (4pm - 7pm),1000 - 2000 rupees,1,3,3,6.901293
+143,Evening (4pm - 7pm),Night (after 7pm),1000 - 2000 rupees,2,3,6,9.901293
+144,Morning (until 11am);Daytime (11am - 3pm),Morning (until 11am);Daytime (11am - 3pm),1000 - 2000 rupees,2,3,6,9.901293
+145,Morning (until 11am),Evening (4pm - 7pm),More than 2000 rupees,2,4,8,11.901293
+146,Morning (until 11am),,1000 - 2000 rupees,1,3,3,6.901293
+147,,Evening (4pm - 7pm),500 - 1000 rupees,1,2,2,5.901293
+148,Evening (4pm - 7pm),Evening (4pm - 7pm),More than 2000 rupees,2,4,8,11.901293
+149,Evening (4pm - 7pm),Evening (4pm - 7pm),Less than 500 rupees,2,1,2,5.901293
+150,Daytime (11am - 3pm),,1000 - 2000 rupees,1,3,3,6.901293
+151,Daytime (11am - 3pm),,More than 2000 rupees,1,4,4,7.901293
+152,Morning (until 11am);Daytime (11am - 3pm),Morning (until 11am);Daytime (11am - 3pm),1000 - 2000 rupees,2,3,6,9.901293
+153,Morning (until 11am),,Less than 500 rupees,1,1,1,4.901293
+154,Morning (until 11am),,500 - 1000 rupees,1,2,2,5.901293
+155,Evening (4pm - 7pm),,More than 2000 rupees,1,4,4,7.901293
+156,Daytime (11am - 3pm),Evening (4pm - 7pm),More than 2000 rupees,2,4,8,11.901293
+157,Morning (until 11am);Evening (4pm - 7pm),Morning (until 11am);Evening (4pm - 7pm),500 - 1000 rupees,2,2,4,7.901293
+158,Evening (4pm - 7pm),Evening (4pm - 7pm),500 - 1000 rupees,2,2,4,7.901293
+159,Morning (until 11am),,Less than 500 rupees,1,1,1,4.901293
+160,Night (after 7pm),Night (after 7pm),Less than 500 rupees,2,1,2,5.901293
