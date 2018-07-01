@@ -7,20 +7,20 @@
 
 # Read CSV files which only contatins the bought quantity 1 <- less than 10, 0<- 10 or more than 10
 
-CSV_Weekends = read.csv("../responses/Bought_Quantity_Weekends.csv")
-
+CSV_Weekends = read.csv("../responses/Bought_Quantity_Weekends.csv", header = TRUE,sep = ',')
+attributes(CSV_Weekends)
 #get Weekends data from csv file
 Weekends_data = c()
-for(i in 1:159){
-  Weekends_data <- CSV_Weekends[i]
+for(i in 1:160){
+  Weekends_data <- CSV_Weekends$Item.Quantity
 }
 
 CSV_Weekdays = read.csv("../responses/Bought_Quantity_Weekdays.csv")
-
+attributes(CSV_Weekdays)
 #get Week days data from csv file
 Weekdays_data = c()
-for(i in 1:86){
-  Weekdays_data <- CSV_Weekdays[i]
+for(i in 1:87){
+  Weekdays_data <- CSV_Weekdays$Item.Quantity
 }
 
 # Get number of 1 occurrences in the data
@@ -34,7 +34,7 @@ listweekend = c()
 for (i in 1: x1_numberOf1) {
   listweekend[i] <- 1
 }
-for (i in 109 : 159) {
+for (i in 109 : 160) {
   listweekend[i] <- 0
 }
 
@@ -42,7 +42,7 @@ listweekdays = c()
 for (i in 1: x2_numberOf1) {
   listweekdays[i] <- 1
 }
-for (i in 69 : 86) {
+for (i in 69 : 87) {
   listweekdays[i] <- 0
 }
 
@@ -51,14 +51,14 @@ p_diff = x1_Prop -x2_Prop
 
 # Create a new list by appending total values of the 2 lists
 Total = c(listweekend, listweekdays)
-
+Total
 #boostraps samples
 arr = c()
 
 for (i in 1:10000) {
   smp = sample(Total)
-  x1_smp = smp[1:159]
-  x2_smp = smp[160:245]
+  x1_smp = smp[1:160]
+  x2_smp = smp[161:247]
   Prop_x1_Smp = sum(x1_smp)/160
   Prop_x2_Smp = sum(x2_smp)/87
   arr = c(arr, p_diff)
