@@ -1,11 +1,11 @@
 # data for week days processed by using the initial response csv file
-weekdays_data=read.csv('/home/dilini/Desktop/SI/Project/responses/weekdays_purchases.csv',header = TRUE,sep = ',')
+weekdays_data=read.csv("../responses/weekdays_purchases.csv",header = TRUE,sep = ',')
 print(weekdays_data)
 attributes(weekdays_data)
 dim(weekdays_data)
 
 # data for weekend(saturday & sunday) processed by using the initial response csv file
-weekend_data = read.csv('/home/dilini/Desktop/SI/Project/responses/weekend_purchase.csv', header = TRUE,sep = ',')
+weekend_data = read.csv("../responses/weekend_purchase.csv", header = TRUE,sep = ',')
 print(weekend_data)
 attributes(weekend_data)
 dim(weekend_data)
